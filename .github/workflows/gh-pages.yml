@@ -21,8 +21,9 @@ jobs:
           extended: true
 
       - name: Build
-        run: cd syd-portfolio
-             hugo --minify
+        run: |
+          cd syd-portfolio
+          hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
