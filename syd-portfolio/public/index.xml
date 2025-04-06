@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sydney Smith</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content on Sydney Smith</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/posts/my-first-post/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/portfolio/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my portfolio. Here are selected works that reflect my practice and ongoing research around themes of care, collaboration, rhythm, and the body.&lt;/p&gt;&#xA;&lt;div class=&#34;gallery&#34;&gt;&#xA;  &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/portfolio/images/portfolio/work1_hu_d24df2a7ebd3dd55.JPG&#34; alt=&#34;Images portfolio work1. jpg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/portfolio/images/portfolio/work2_hu_16b2df5539c49120.JPG&#34; alt=&#34;Images portfolio work2. jpg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &#xA;    &#xA;    &#xA;      &#xA;      &lt;div class=&#34;gallery-item&#34;&gt;&#xA;        &lt;img src=&#34;http://localhost:1313/portfolio/images/portfolio/work3_hu_3c9e9d6024173dbc.JPG&#34; alt=&#34;Images portfolio work3. jpg&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &#xA;&lt;/div&gt;&#xA;&#xA;&lt;style&gt;&#xA;.gallery {&#xA;  display: grid;&#xA;  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));&#xA;  gap: 1rem;&#xA;}&#xA;.gallery-item img {&#xA;  width: 100%;&#xA;  height: auto;&#xA;  border-radius: 8px;&#xA;}&#xA;&lt;/style&gt;</description>
+    </item>
+  </channel>
+</rss>

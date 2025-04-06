@@ -1,0 +1,25 @@
+<div class="gallery">
+  {{ $files := readDir "assets/images/portfolio" }}
+  {{ range $files }}
+    {{ $imgPath := printf "images/portfolio/%s" .Name }}
+    {{ with resources.Get $imgPath }}
+      {{ $resized := .Resize "800x" }}
+      <div class="gallery-item">
+        <img src="{{ $resized.RelPermalink }}" alt="{{ .Name | humanize }}">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+</style>
