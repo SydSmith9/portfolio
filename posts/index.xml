@@ -1,1 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://sydsmith9.github.io/portfolio/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://sydsmith9.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sydney Smith</title><link>https://sydsmith9.github.io/portfolio/posts/</link><description>Recent content in Posts on Sydney Smith</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 00:00:00 -0400</lastBuildDate><atom:link href="https://sydsmith9.github.io/portfolio/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio</title><link>https://sydsmith9.github.io/portfolio/posts/my-first-post/</link><pubDate>Sun, 06 Apr 2025 00:00:00 -0400</pubDate><guid>https://sydsmith9.github.io/portfolio/posts/my-first-post/</guid><description>&lt;p>Welcome to my portfolio. Here are selected works that reflect my practice and ongoing research around themes of care, collaboration, rhythm, and the body.&lt;/p>
+&lt;div class="gallery">
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="gallery-item">
+ &lt;img src="https://sydsmith9.github.io/portfolio/images/portfolio/work1_hu_d24df2a7ebd3dd55.JPG" alt="Images portfolio work1. jpg">
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="gallery-item">
+ &lt;img src="https://sydsmith9.github.io/portfolio/images/portfolio/work2_hu_16b2df5539c49120.JPG" alt="Images portfolio work2. jpg">
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;div class="gallery-item">
+ &lt;img src="https://sydsmith9.github.io/portfolio/images/portfolio/work3_hu_3c9e9d6024173dbc.JPG" alt="Images portfolio work3. jpg">
+ &lt;/div>
+ 
+ 
+&lt;/div>
+
+&lt;style>
+.gallery {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+ gap: 1rem;
+}
+.gallery-item img {
+ width: 100%;
+ height: auto;
+ border-radius: 8px;
+}
+&lt;/style></description></item></channel></rss>
