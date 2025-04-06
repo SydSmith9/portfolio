@@ -4,3 +4,9 @@
 [submodule "syd-portfolio/themes/ananke"]
 	path = syd-portfolio/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "syd-portfolio/themes/port"]
+	path = syd-portfolio/themes/port
+	url = https://github.com/Track3/hermit.git
+[submodule "syd-portfolio/themes/PaperMod"]
+	path = syd-portfolio/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod

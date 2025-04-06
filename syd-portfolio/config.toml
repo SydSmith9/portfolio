@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Sydney Smith"
+theme = "port"
+
+paginate = 10
+
+[params]
+  author = "Sydney Smith"
+  description = "Portfolio and Studio Practice"
+  dateFormat = "Jan 2, 2006"
